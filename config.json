@@ -1,0 +1,20 @@
+{
+   "dev":false,
+   "preAuth":true,
+   "test":false,
+   "main":"https://www.yuncaijing.com/",
+   "index":"https://www.yuncaijing.com/jatweb/index.html",
+   "loginUrl":"https://www.yuncaijing.com/login_jat.html",
+   "accountUrl":"https://www.yuncaijing.com/jatweb/my_account.html",
+   "checkVerifyUrl":"https://www.yuncaijing.com/waf_auth/check_code_page.html",
+   "responseOrder":"https://www.yuncaijing.com/jatweb/response_order?a=1.html",
+   "wechatAgent":"Mozilla/5.0 (Linux; Android 7.0; Mi-4c Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043632 Safari/537.36 MicroMessenger/6.6.1.1220(0x26060135) NetType/WIFI Language/zh_CN MicroMessenger/6.6.1.1220(0x26060135) NetType/WIFI Language/zh_CN miniProgram",
+   "wechatIos":"Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.05.2102010 MicroMessenger/7.0.4 Language/zh_CN webview/16182853061386664",
+   "qqbrowser":"Mozilla / 5.0(Windows NT 10.0; Win64; x64) AppleWebKit / 537.36(KHTML, like Gecko) Chrome / 89.0.4389.114 Safari / 537.36",
+   "password":"input your password",
+   "username":"input your username",
+   "windUrl":"https://wmstock.wind.com.cn/strategyservice/app/expoHttp.htm",
+   "snowUrl":"https://stock.xueqiu.com/v5/stock/realtime/quotec.json",
+   "speedSource":1,
+   "dbname":"quant"
+}
