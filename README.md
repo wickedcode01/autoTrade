@@ -8,6 +8,6 @@ An autoTrade framework that can make you trade automatically in China A-shares.
 
 3、更改config.json内的用户名和密码
 
-4、node main.js
+4、node src/main.js
 
 **WARNING:请确保你能读懂代码再操作，本程序仅供技术学习交流使用，不为使用产生的任何后果负责。**
